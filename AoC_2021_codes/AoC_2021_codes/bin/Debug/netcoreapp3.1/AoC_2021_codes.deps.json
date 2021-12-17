@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AoC_2021_codes/1.0.0": {
+        "runtime": {
+          "AoC_2021_codes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AoC_2021_codes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
