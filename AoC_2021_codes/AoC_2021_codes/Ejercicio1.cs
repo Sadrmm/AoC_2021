@@ -23,7 +23,8 @@ namespace AoC_2021_codes
             }
             return solucion;
         }
-
+        
+        //Ejercicio Correcto
         public static int ParteB()
         {
             int[] input = Array.ConvertAll(File.ReadAllLines("../../../inputEjer1B.txt"), int.Parse);
