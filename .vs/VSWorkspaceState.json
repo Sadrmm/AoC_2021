@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\AoC_2021_codes",
+    "\\AoC_2021_codes\\AoC_2021_codes"
   ],
-  "SelectedNode": "\\Exercise1.cs",
+  "SelectedNode": "\\AoC_2021_codes\\AoC_2021_codes\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
