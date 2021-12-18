@@ -9,7 +9,9 @@ namespace AoC_2021_codes
             //Console.WriteLine(Ejercicio1.ParteA());
             //Console.WriteLine(Ejercicio1.ParteB());
             //Console.WriteLine(Ejercicio2.ParteA());
-            Console.WriteLine(Ejercicio2.ParteB());
+            //Console.WriteLine(Ejercicio2.ParteB());
+            //Console.WriteLine(Ejercicio3.ParteA());
+            Console.WriteLine(Ejercicio3.ParteB());
         }
     }
 }
