@@ -12,3 +12,17 @@ C:\Users\adri2\Desktop\Pruebas Programación\AoC_2021-main\AoC_2021_codes\AoC_20
 C:\Users\adri2\Desktop\Pruebas Programación\AoC_2021-main\AoC_2021_codes\AoC_2021_codes\obj\Debug\netcoreapp3.1\AoC_2021_codes.dll
 C:\Users\adri2\Desktop\Pruebas Programación\AoC_2021-main\AoC_2021_codes\AoC_2021_codes\obj\Debug\netcoreapp3.1\AoC_2021_codes.pdb
 C:\Users\adri2\Desktop\Pruebas Programación\AoC_2021-main\AoC_2021_codes\AoC_2021_codes\obj\Debug\netcoreapp3.1\AoC_2021_codes.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\Sadrmm\AoC_2021\AoC_2021_codes\AoC_2021_codes\bin\Debug\netcoreapp3.1\AoC_2021_codes.exe
+C:\Users\Usuario\source\repos\Sadrmm\AoC_2021\AoC_2021_codes\AoC_2021_codes\bin\Debug\netcoreapp3.1\AoC_2021_codes.deps.json
+C:\Users\Usuario\source\repos\Sadrmm\AoC_2021\AoC_2021_codes\AoC_2021_codes\bin\Debug\netcoreapp3.1\AoC_2021_codes.runtimeconfig.json
+C:\Users\Usuario\source\repos\Sadrmm\AoC_2021\AoC_2021_codes\AoC_2021_codes\bin\Debug\netcoreapp3.1\AoC_2021_codes.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Sadrmm\AoC_2021\AoC_2021_codes\AoC_2021_codes\bin\Debug\netcoreapp3.1\AoC_2021_codes.dll
+C:\Users\Usuario\source\repos\Sadrmm\AoC_2021\AoC_2021_codes\AoC_2021_codes\bin\Debug\netcoreapp3.1\AoC_2021_codes.pdb
+C:\Users\Usuario\source\repos\Sadrmm\AoC_2021\AoC_2021_codes\AoC_2021_codes\obj\Debug\netcoreapp3.1\AoC_2021_codes.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Sadrmm\AoC_2021\AoC_2021_codes\AoC_2021_codes\obj\Debug\netcoreapp3.1\AoC_2021_codes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Sadrmm\AoC_2021\AoC_2021_codes\AoC_2021_codes\obj\Debug\netcoreapp3.1\AoC_2021_codes.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Sadrmm\AoC_2021\AoC_2021_codes\AoC_2021_codes\obj\Debug\netcoreapp3.1\AoC_2021_codes.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Sadrmm\AoC_2021\AoC_2021_codes\AoC_2021_codes\obj\Debug\netcoreapp3.1\AoC_2021_codes.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Sadrmm\AoC_2021\AoC_2021_codes\AoC_2021_codes\obj\Debug\netcoreapp3.1\AoC_2021_codes.dll
+C:\Users\Usuario\source\repos\Sadrmm\AoC_2021\AoC_2021_codes\AoC_2021_codes\obj\Debug\netcoreapp3.1\AoC_2021_codes.pdb
+C:\Users\Usuario\source\repos\Sadrmm\AoC_2021\AoC_2021_codes\AoC_2021_codes\obj\Debug\netcoreapp3.1\AoC_2021_codes.genruntimeconfig.cache
